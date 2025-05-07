@@ -4,15 +4,15 @@
 ##
 
 <div align="center">❀˖°  Hi, I’m Bea — Computer Engineering student  
-⋆✴︎˚ Passionate about modern C++ (17/20) and systems programming  
-⋆˚࿔  Always learning: data structures, algorithms & embedded systems  
-༘⋆  Building performance-focused projects and exploring low-level optimizations  
-｡𖦹° Open to collaborations and code reviews!  
+<div align="center">⋆✴︎˚ Passionate about modern C++ (17/20) and systems programming  
+<div align="center">⋆˚࿔  Always learning: data structures, algorithms & embedded systems  
+<div align="center">༘⋆  Building performance-focused projects and exploring low-level optimizations  
+<div align="center">｡𖦹° Open to collaborations and code reviews!  
 
 ##
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beabenner/beabenner/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beabenner/beabenner/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beabenner/beabenner/output/github-contribution-grid-snake.svg">
 </picture>
