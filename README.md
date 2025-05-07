@@ -1,4 +1,4 @@
-?lines= <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8767DC&center=true&vCenter=true&width=437&height=56&lines=%E2%80%8E%E2%80%A7%E2%82%8A%CB%9A%E2%9C%A7+Welcome+to+my+profile!+%E2%9C%A7%CB%9A%E2%82%8A%E2%80%A7" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8767DC&center=true&vCenter=true&width=437&height=56&lines=%E2%80%8E%E2%80%A7%E2%82%8A%CB%9A%E2%9C%A7+Welcome+to+my+profile!+%E2%9C%A7%CB%9A%E2%82%8A%E2%80%A7" alt="Typing SVG" /></a>
 
 <!--
 **beabenner/beabenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
