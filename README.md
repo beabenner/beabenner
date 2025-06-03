@@ -3,11 +3,11 @@
 
 ##
 
-<div align="center">❀˖°  Hi, I’m Bea — Computer Engineering student  
-<div align="center">⋆✴︎˚ Passionate about modern C++ (17/20) and systems programming  
-<div align="center">⋆˚࿔  Always learning: data structures, algorithms & embedded systems  
-<div align="center">༘⋆  Building performance-focused projects and exploring low-level optimizations  
-<div align="center">｡𖦹° Open to collaborations and code reviews!  
+<div align="center">❀˖° Hi, I’m Bea — Computer Engineering student  
+<div align="center">⋆✴︎˚ Curious mind, passionate about learning new languages & technologies
+<div align="center">⋆˚࿔  Developing skills in programming, systems, and web 
+<div align="center">༘⋆  Driven by performance and problem-solving 
+<div align="center">｡𖦹° Let’s connect!
 
 ##
 
